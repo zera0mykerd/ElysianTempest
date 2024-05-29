@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1716920817,
+	"version": 1716979962,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,7 +17,6 @@
 		"images/coins-sheet0.png",
 		"images/home-sheet0.png",
 		"images/krab-sheet0.png",
-		"images/hoic2-sheet0.png",
 		"images/hoic-sheet0.png",
 		"images/fem-sheet0.png",
 		"images/rain.png",
@@ -44,10 +43,8 @@
 		"images/theend-sheet0.png",
 		"images/sign-sheet0.png",
 		"images/steelterrain-sheet0.png",
-		"images/helltxt-sheet0.png",
 		"images/arrow2-sheet0.png",
 		"images/arro2-sheet0.png",
-		"images/icetxt-sheet0.png",
 		"images/spin-sheet0.png",
 		"images/water-sheet0.png",
 		"images/water-sheet1.png",
@@ -116,7 +113,6 @@
 		"images/volcanosparti.png",
 		"images/terr-sheet0.png",
 		"images/castle-sheet0.png",
-		"images/loaderbackground-sheet0.png",
 		"images/loadbar.png",
 		"images/loadingbar.png",
 		"images/vec-sheet0.png",
