@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1716979962,
+	"version": 1717077220,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -151,7 +151,11 @@
 		"images/spinter-sheet0.png",
 		"images/balloon-sheet0.png",
 		"images/endkrab-sheet0.png",
-		"media/soundtrack.ogg",
+		"images/deathi-sheet0.png",
+		"images/stricon-sheet0.png",
+		"images/scorpion-sheet0.png",
+		"images/fly-sheet0.png",
+		"images/fly-sheet1.png",
 		"media/coin.ogg",
 		"media/lose.ogg",
 		"media/bees.ogg",
@@ -165,6 +169,7 @@
 		"media/pop.ogg",
 		"media/complete.ogg",
 		"media/walk.ogg",
+		"media/strack.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
