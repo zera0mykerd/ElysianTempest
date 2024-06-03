@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1717077220,
+	"version": 1717424803,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -156,6 +156,8 @@
 		"images/scorpion-sheet0.png",
 		"images/fly-sheet0.png",
 		"images/fly-sheet1.png",
+		"images/inizia-sheet0.png",
+		"images/logo-sheet0.png",
 		"media/coin.ogg",
 		"media/lose.ogg",
 		"media/bees.ogg",
