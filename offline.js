@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1717679442,
+	"version": 1717686854,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,7 +15,6 @@
 		"images/terrain-sheet0.png",
 		"images/stalat-sheet0.png",
 		"images/coins-sheet0.png",
-		"images/home-sheet0.png",
 		"images/krab-sheet0.png",
 		"images/hoic-sheet0.png",
 		"images/fem-sheet0.png",
@@ -51,7 +50,6 @@
 		"images/sand-sheet0.png",
 		"images/coralbackground-sheet0.png",
 		"images/coralbk-sheet0.png",
-		"images/coralback-sheet0.png",
 		"images/coralbak-sheet0.png",
 		"images/dragonice-sheet0.png",
 		"images/ices.png",
@@ -86,7 +84,6 @@
 		"images/zebghiaccio-sheet0.png",
 		"images/icepin-sheet0.png",
 		"images/enemy-sheet0.png",
-		"images/paint-sheet0.png",
 		"images/cloudplatform-sheet0.png",
 		"images/arrow-sheet0.png",
 		"images/pins-sheet0.png",
@@ -172,6 +169,7 @@
 		"images/hostilecloud-sheet0.png",
 		"images/guardian-sheet0.png",
 		"images/trident-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/coin.ogg",
 		"media/lose.ogg",
 		"media/bees.ogg",
